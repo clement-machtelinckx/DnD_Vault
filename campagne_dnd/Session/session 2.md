@@ -1,0 +1,20 @@
+<- [[session 1]]
+Résumé de la session 2 : L’assaut du château de [[Famille Roderick||Roderick]]
+Après leur brillante enquête, [[Eryn]] et [[Clématite]] sont rejoints par de nouveaux compagnons : [[Majdar]], un ensorceleur elfe sylvain, [[Astérion]], un voleur humain, et [[Mhoulbitt]], un guerrier nain. Le maire leur confie une mission périlleuse : enquêter sur le château de [[Famille Roderick||Roderick]], un lieu marqué par une sombre histoire de déchéance familiale et de disparitions récentes. .
+
+En route, le groupe est suivi par des ombres malveillantes, mais [[Majdar]] dissipe ces esprits avec sa lumière magique. Devant le château, ils affrontent deux guerriers squelettes et rencontrent un spectre amical, l’ancien majordome de la famille [[Famille Roderick||Roderick]], emprisonné par un collier maudit. Il promet des informations en échange de la destruction de l’amulette. .
+
+Le groupe entre dans le château et explore l’armurerie. Ils affrontent cinq guerriers squelettes dans un combat éprouvant mais en ressortent victorieux. Leur butin : deux armures d’écailles et des armes. Ensuite, dans les cuisines, ils découvrent le spectre d’un cuisinier préparant un ragoût fait de restes humains. Horrifiés, ils l’éliminent rapidement. .
+
+Dans l’ancienne salle du trône, transformée en un jeu mortel d’énigmes et de pièges, les aventuriers déjouent les obstacles et trouvent un trésor : 40 pièces d’or et deux potions de soin, vite consommées pour reprendre des forces après de rudes combats. .
+
+Le groupe se dirige ensuite vers l’étage supérieur. Sur leur chemin, ils découvrent une immense salle de bal où des centaines de spectres dansent sans relâche. Traverser la salle serait suicidaire, et ils choisissent de prendre un chemin plus sûr. Ils arrivent enfin dans la chambre principale et y trouvent le collier maudit. Mais, dans leur précipitation, ils détruisent l’amulette immédiatement. Le spectre du majordome apparaît une dernière fois et murmure dans un souffle : « Dans les sous-sols... » avant de disparaître. 
+
+Guidés par les dernières paroles du majordome, les aventuriers descendent dans les profondeurs du château. Un choix s’impose : passer par les geôles nauséabondes ou le garde-manger. Ils choisissent le garde-manger, désormais repaire d’un rat mutant géant, corrompu par une magie noire. Clématite tente de communiquer avec la créature, mais celle-ci, assoiffée de sang, attaque. Dans un ultime faux pas, le rat tombe et le groupe l’achève sans hésitation. 
+
+Le groupe arrive devant la porte finale, épuisé et à court de ressources. Derrière, ils trouvent [[Darian Roderick]], le dernier descendant de la famille, pratiquant un sombre rituel devant une abomination faite de chairs et de sang. Un combat épique s’ensuit : Clématite, transformée en ours, charge la créature avec [[Astérion]] et [[Mhoulbitt]], tandis qu’[[Eryn]] enchaîne les tirs à l’arc et [[Majdar]]bombarde le champ de bataille de projectiles magiques. Après avoir terrassé l’amas de chair, [[Darian Roderick||Darian]] entre en scène. Le combat redouble d’intensité. [[Astérion]] tente un coup audacieux en poignardant [[Darian Roderick||Darian]] dans le [[Darian Roderick||Darian]], mais le nécromancien invoque des squelettes pour se défendre. [[Majdar]], épuisant ses dernières forces, détruit les squelettes, tandis qu’[[Eryn]] met fin à la bataille d’une flèche précise dans la tête de [[Darian Roderick||Darian]]
+
+Avec la mort de [[Darian Roderick||Darian]], le château est purifié. Les aventuriers récupèrent le butin : une orbe magique de grande puissance et des bijoux précieux. Ils retournent à [[PréDuBois]], où le maire les remercie chaleureusement et leur offre une carte ainsi qu’une lettre de recommandation à l’attention de la gouvernante de [[Greywater]]. Cette dernière leur demande de venir en aide à la ville, frappée par des troubles mystérieux. 
+Suite dans la [[session 3]].
+
+-> [[session 3]]
