@@ -1,5 +1,5 @@
 
-fiere chevalier de la [[Maison Mélison]]
+fière chevalier de la [[Maison Mélison]]
 
 
-eternel rival de [[Belnir]] 
+éternel rival de [[Belnir]] 

@@ -1,4 +1,7 @@
-<- [[session 2]]
+<- [[Session 2]]
+
+participants : [[Clématite]], [[Majdar]], [[Incubus]], [[Astérion]], [[Mhoulbitt]],
+date : 
 
 Après plusieurs jours de voyage, nos aventuriers atteignent enfin [[GreyWater]], une ville marchande construite sur un ancien marécage. Les rues boueuses contrastent avec les maisons sur pilotis, et les habitants se déplacent à pied ou en barque à travers les nombreux canaux.
 

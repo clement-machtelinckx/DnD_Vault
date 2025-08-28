@@ -1,5 +1,8 @@
 <- [[session 8]]
 
+participants : 
+date : 
+
 Après leur triomphe dans la [[Forêt des Brumes]], nos aventuriers foulent enfin les terres du Nord. Suivant le sentier bordant les arbres désormais silencieux, ils atteignent un carrefour stratégique : le [[Camp Valtripe||Camp de Valtripe]], bastion humain dressé à la frontière du territoire nain. Cherchant refuge et information, ils sont arrêtés à l’entrée par deux gardes, qui les orientent vers le panneau d’avis de recherche ou vers le commandement s’ils souhaitent se rendre utiles. Mais quelle n’est pas leur surprise en découvrant, parmi les avis jaunis… leurs propres visages !
 
 Apparemment, près d’un an s’est écoulé depuis leur entrée dans la [[Forêt des Brumes]], et bien que leur prime ne soit plus d’actualité, leur nom résonne encore dans les murmures du royaume. C’est là qu’un curieux gobelin nommé [[Shin]], observateur rusé et barde à la langue bien pendue, les aborde. Intrigué par cette bande de hors-la-loi au charisme fou, il décide de se joindre à eux. [[Shin]] n’est pas qu’un moulin à paroles : c’est aussi un archer redoutable, dont les flèches frappent juste, même au cœur du chaos.
@@ -12,5 +15,5 @@ De retour à [[Camp Valtripe||Valtripe]], ils tendent une embuscade… musicale 
 
 Sur place, à l’ombre des deux immenses statues qui marquent la frontière, [[Astérion]] se déguise en [[Sergent Halbert||Halbert]] et rencontre les deux nains. Le dialogue est tendu mais diplomatique. Un accord est trouvé : les espions reviendront le lendemain, pour être introduits au capitaine en secret… Mais une partie du groupe doute de leur retour. Ils préparent donc… une embuscade.
 
--> [[session 11]]
-   
+-> [[Session 11]]
+-> [[Session 10 HR]]

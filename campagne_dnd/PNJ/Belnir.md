@@ -1,5 +1,5 @@
 
-fiere chevalier de la [[Maison Charangon]]
+fière chevalier de la [[Maison Charangon]]
 
 
-eternel rival de [[Acator]]
+éternel rival de [[Acator]]

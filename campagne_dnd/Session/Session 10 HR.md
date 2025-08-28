@@ -1,3 +1,6 @@
+<- [[Session 9]]
+participants : 
+date : 
 
 La Maison de la Mort (hors-série Curse of Strahd) 
 
@@ -22,3 +25,5 @@ Le Culte au Cœur de la Maison En avançant, le groupe surprend des cultistes en
 Le Cœur Brisé Le combat est brutal, étouffant, cauchemardesque. Les goules tombent une à une. Le golem frappe. Hurle. Saigne. Tombe. Et dans son dernier souffle, la maison tremble. Elle s’effondre. Car Walter était son cœur. 
 
 La Fuite et le Silence Alors que les murs s’écroulent, les esprits des enfants apparaissent une dernière fois, et guident les aventuriers vers la sortie. Épuisés, choqués, vidés… ils atteignent la clairière. La brume revient. Le froid. Le silence. Et cette sensation terrible : “Quelque chose s’est éveillé. Et ce n’était peut-être qu’un premier murmure.”
+
+-> [[Session 11]]
