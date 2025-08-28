@@ -1,5 +1,8 @@
 <- [[session 7]]
 
+participants : 
+date : 
+
 Après avoir rencontré [[Yulgo]], nos aventuriers sont menés jusqu’à la mystérieuse reine [[Reine Mirembé||Mirembé]]. Au centre d’une mare luxuriante, entourée de batraciens et de lucioles, cette entité légendaire se dévoile enfin : elle est la véritable origine de la brume qui entoure la forêt. Mais loin d’être malveillante, elle explique que cette brume n’a qu’un but défensif : protéger le mode de vie de la forêt et de ses habitants. Aucun piège, aucune magie noire, seulement un voile protecteur contre les influences extérieures. Les aventuriers sont troublés. Ces révélations contredisent totalement ce que [[Grambella]] leur a raconté. Pas de gobelins assoiffés de sang, pas de reine cruelle… Seulement une gardienne bienveillante et un peuple de la forêt attaché à la paix. Ils décident donc de retrouver [[Grambella]] pour confronter sa version des faits.
 
 En chemin, un corbeau noir les observe. [[Clématite]], agacé, l’interpelle... et à sa grande surprise, l’oiseau lui répond dans sa langue ! Il se moque d’eux avec une voix railleuse avant de s’envoler en criant un inquiétant : “Bababababa !” De retour à la clairière où se trouvait la cabane, celle-ci a disparu. À sa place : une trace nette de terre morte. [[Askeladd]] remarque d’immenses empreintes de pattes de poulet géantes. Son sang ne fait qu’un tour : “C’est la cabane de [[Baba Yaga]]…” Ils suivent les traces avec une détermination farouche. [[Majdar]], tourmenté par les rêves de mort et le souvenir brûlant d’un baiser échangé, veut encore croire à l’innocence de [[Grambella]]...

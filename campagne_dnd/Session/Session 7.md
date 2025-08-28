@@ -1,5 +1,8 @@
 <- [[session 6]]
 
+participants : 
+date : 
+
 Nos aventuriers sont encore piégés dans le coffre souterrain de la [[Banque de Greywater||banque]] de [[Greywater]]. Encerclés par des mages et des gardes nombreux, ils n’ont d’autre choix que de négocier avec le Sphinx, gardien antique des coffres. Amusé par ce groupe extravagant et lassé de sa mission sans fin, le Sphinx leur propose un marché étrange : il exigera un œil en échange de leur liberté. C’est [[Clématite]] qui accepte, sacrifiant son regard... désormais, le [[sphinx]] peut observer le monde à travers ses yeux. Fidèle à sa parole, il téléporte le groupe à quelques lieues de [[Greywater]], aux abords mystérieux de la [[Forêt des Brumes]], cette sylve légendaire où la brume chante entre les arbres.
 
 Profitant de ce répit, nos aventuriers passent plusieurs heures à compter leur fortune — des milliers de pièces d’or éparpillées dans l’herbe. [[Clématite]] improvise des sacs de fortune faits de feuilles et de lianes pour transporter leur butin. Leur célébration tourne vite à l’effroi lorsqu’ils assistent, impuissants, à la chute de [[Greywater]] : une immense vague, née de l’éruption volcanique de l’[[Île aux Éléments]], engloutit la ville en un instant. Face à l’ampleur du désastre, une décision s’impose : Retourner à [[Greywater]] d'éventuels survivants ? Ou plonger plus profondément dans la [[Forêt des Brumes]] ? Nos aventuriers, malgré l’hésitation, choisissent la fuite vers le nord, traversant les bois maudits.

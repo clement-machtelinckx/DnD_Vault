@@ -1,1 +1,1 @@
-appartion au [[Royaume de Cendrémare]]
+Appartiens au [[Royaume de Cendrémare]]

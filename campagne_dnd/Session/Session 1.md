@@ -1,3 +1,5 @@
+participant : [[Clématite]], [[Eryn]]
+date : 
 
 Nos deux aventuriers, [[Eryn]] (rôdeuse drow) et [[Clématite]] (druide halfeline), débutent leur aventure dans le petit village de [[PréduBois]]. À leur arrivée, ils apprennent la mort tragique de la fille du forgeron. Le maire les convoque rapidement pour enquêter sur cette affaire mystérieuse. .
 
@@ -13,4 +15,4 @@ Munis de preuves solides, ils retournent chez le maire pour obtenir du renfort. 
 
 Nos héros triomphent du monstre et reçoivent une récompense bien méritée. Le maire leur confie une nouvelle mission : se rendre au château de [[Famille Roderick||Roderick]] pour enquêter sur les sombres mystères qui s’y cachent.
 
--> [[session 2]]
+-> [[Session 2]]

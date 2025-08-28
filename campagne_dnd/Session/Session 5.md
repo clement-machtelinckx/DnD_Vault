@@ -1,5 +1,8 @@
 <- [[session 4]]
 
+participants : 
+date : 
+
 L’assaut sur la demeure de Kodrick : Nos aventuriers, ayant rassemblé toutes les informations nécessaires, se tiennent devant la demeure de [[Vardain Kodrick||Kodrick]], prêts à capturer le marchand et à rétablir l’ordre dans [[GreyWater]]. .
 
 Sous la lueur de la lune et sous une pluie battante, ils mettent en place un stratagème : [[Majdar]], jouant le rôle d’un ivrogne bruyant, attire l’attention du personnel de la maison. Après plusieurs minutes de chaos dans la rue, le majordome de [[Vardain Kodrick||Kodrick]] finit par ouvrir la porte pour faire déguerpir [[Majdar]]. .
