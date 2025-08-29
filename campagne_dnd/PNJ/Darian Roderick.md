@@ -1,3 +1,5 @@
+Situation : Mort /??
+
 dernier descendant de la [[Famille Roderick]], 
 
 a sombré dans la folie et la magie noir. 
